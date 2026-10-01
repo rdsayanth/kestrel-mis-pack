@@ -1,0 +1,7 @@
+# Excel lock / temp files
+~$*.xlsx
+*.tmp
+# raw Kaggle download lives outside the repo; never commit it
+DataCoSupplyChainDataset.csv
+tokenized_access_logs.csv
+__pycache__/
