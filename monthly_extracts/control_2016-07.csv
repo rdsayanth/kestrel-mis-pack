@@ -1,0 +1,2 @@
+period,extract_file,row_count,order_count,gross_sales,net_sales,generated_at
+2016-07,extract_2016-07.csv,5305,1758,1045715.62,939216.4,2016-08-01 06:00
